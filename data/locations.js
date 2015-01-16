@@ -1,4 +1,4 @@
-var locations = {
+var theHistory = {
   "locations": [
     {
       "date": "2011-10-25",
@@ -25,9 +25,9 @@ var locations = {
       "comments": []
     },
     {
-      "date": "",
+      "date": "2012-01-31",
       "name": "Wendell's",
-      "address": "",
+      "address": "925 N. State St. Westerville OH 43082",
       "poobah": " Aaron",
       "attendees": [],
       "comments": []
@@ -73,9 +73,9 @@ var locations = {
       "comments": []
     },
     {
-      "date": "",
+      "date": "2012-07-31",
       "name": "Gallos Pit BBQ",
-      "address": "",
+      "address": "2234 W. Dublin Granville Rd. Worthington OH 43085",
       "poobah": " James",
       "attendees": [],
       "comments": []
@@ -185,9 +185,9 @@ var locations = {
       "comments": []
     },
     {
-      "date": "",
+      "date": "2013-10-29",
       "name": "San Su Korean BBQ",
-      "address": "",
+      "address": "1138 Bethel Rd. Columbus OH 43220",
       "poobah": " James",
       "attendees": [],
       "comments": []
@@ -217,9 +217,9 @@ var locations = {
       "comments": []
     },
     {
-      "date": "",
+      "date": "2014-03-25",
       "name": "Rishi Sushi Kitchen and Bar",
-      "address": "",
+      "address": "114 N. 3rd St. Columbus OH 43215",
       "poobah": " Aaron",
       "attendees": [],
       "comments": []
@@ -249,9 +249,9 @@ var locations = {
       "comments": []
     },
     {
-      "date": "",
+      "date": "2014-07-29",
       "name": "Oliver's on Lynn",
-      "address": "",
+      "address": "26 N. High St. Columbus OH 43215",
       "poobah": " James",
       "attendees": [],
       "comments": []
@@ -289,10 +289,18 @@ var locations = {
       "comments": []
     },
     {
-      "date": "",
+      "date": "2014-12-30",
       "name": "Kraft House No. 5",
-      "address": "",
+      "address": "5 S. Liberty St. Powell OH 43065",
       "poobah": " Theresa",
+      "attendees": [],
+      "comments": ["bitter cold night","seated at 4 separate tables"]
+    },
+    {
+      "date": "2015-01-27",
+      "name": "Son of Thurman",
+      "address": "5 N. Sandusky St. Delaware OH 43015",
+      "poobah": " Christian",
       "attendees": [],
       "comments": []
     }
