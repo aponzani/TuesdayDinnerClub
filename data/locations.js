@@ -4,7 +4,7 @@ var theHistory = {
       "date": "2011-10-25",
       "name": "Dewey's Pizza",
       "address": "Grandview OH",
-      "poobah": "Megan Norris",
+      "poobah": "Megan",
       "attendees": [],
       "comments": []
     },
