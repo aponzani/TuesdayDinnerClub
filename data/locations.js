@@ -303,6 +303,14 @@ var theHistory = {
       "poobah": " Christian",
       "attendees": [],
       "comments": []
+    },
+    {
+      "date": "2016-07-26",
+      "name": "Copious",
+      "address": "520 S High St. Columbus OH 43215",
+      "poobah": "Brad",
+      "attendees": ["Aaron", "Alex", "Bill", "Brad", "Christian", "Hilary", "Jenny", "Karen", "Kevin Y", "Maria", "Matt (Kepler)", "Max", "Sabrina", "Theresa"],
+      "comments": []
     }
   ]
 };
